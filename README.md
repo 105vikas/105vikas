@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript Projects**
 
-- 📫 How to reach me **105vikasy@gmail.com**
+- 📫 How to reach me **offivikas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
